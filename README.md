@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="center">Hi there 👋</h1>
-    <img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv" width=400>
+    <img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv" width=600>
 </div>
 <!--
 **jbcodedev/jbcodedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
