@@ -18,7 +18,9 @@
       </div>
 </div>
 
+
 - 🌱 I’m currently learning Python, AI, Software Development, Data engineering and more about Data Science
+
 
 <!--
 **jbcodedev/jbcodedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
