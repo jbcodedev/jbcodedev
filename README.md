@@ -1,7 +1,17 @@
 <div id="header" align="center">
-    <h1 align="center"> Hi I'am Jose👋</h1>
+    <h1 align="center">Hi 👋, I'm Jose</h1>
+    <h2 align="center">Software Engineer | Universidad Tecnológica del Peru</h2>
     <img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv" width=600>
 </div>
+
+- 🌱 I’m currently learning Python, SQL, AI, Data engineering and more about Data Science
+- 💬 Ask me about Python, SQL, Java, AI.
+
+<h3 align="left">⚡Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jose-bustamante-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="jose-bustamante" alt="jose-bustamante" height="30" width="40" /></a>
+</p>
+
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
@@ -19,9 +29,11 @@
       </div>
 </div>
 
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jbcodedev&show_icons=true&locale=en&layout=compact" alt="jbcodedev" /></p>
 
-- 🌱 I’m currently learning Python, AI, Software Development, Data engineering and more about Data Science
-
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=jbcodedev&show_icons=true&locale=en" alt="jbcodedev" /></p>
+</div>
 
 <!--
 **jbcodedev/jbcodedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
