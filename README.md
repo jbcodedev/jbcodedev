@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Python, SQL, AI, Data engineering and more about Data Science
 - 💬 Ask me about Python, SQL, Java, AI.
 
-<h3 align="left">⚡Connect with me:</h3>
+<h3 align="left">⚡ Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jose-bustamante-code" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" title="jose-bustamante" alt="jose-bustamante" height="30" width="40" /></a>
 </p>
