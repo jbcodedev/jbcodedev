@@ -1,11 +1,11 @@
 <div id="header" align="center">
-    <h1 align="center">Hi 👋, I'm Jose</h1>
-    <h2 align="center">Software Engineer | Universidad Tecnológica del Peru</h2>
+    <h1 align="center">Hi 👋, I'm Jose Luis</h1>
+    <h2 align="center">Software Engineer</h2>
     <img src="https://64.media.tumblr.com/54805606e41234da265775f4ee8631ef/41d4a35f37c5abf1-f6/s1280x1920/c86995ddee2840dabfff99995367a58ed1382687.gifv" width=600>
 </div>
 
 - 🌱 I’m currently learning Python, SQL, AI, Data engineering and more about Data Science
-- 💬 Ask me about Python, SQL, Java, AI.
+- 💬 Ask me about anything
 
 <h3 align="left">⚡ Connect with me:</h3>
 <p align="left">
